@@ -1,2 +1,2 @@
-# WEB-EDUKASIH
-web edukasih
+# WEB PANEL
+PENEL
