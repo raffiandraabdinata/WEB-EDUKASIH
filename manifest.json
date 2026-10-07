@@ -1,0 +1,13 @@
+{
+  "name": "WEB EDUKASIH",
+  "short_name": "EDUKASIH",
+  "start_url": "/WEB-EDUKASIH/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#ff6a00",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
